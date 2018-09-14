@@ -11,6 +11,8 @@ Deep Learning
 선형대수학 및 통계 등
 -------------
 * 칸아카데미 선형대수 강의 : https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra
+* Coursera Linear Algebr : https://www.coursera.org/learn/linear-algebra-machine-learning
+* Coursera Math for ML : https://www.coursera.org/specializations/mathematics-machine-learning
 
 
 
